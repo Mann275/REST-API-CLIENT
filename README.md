@@ -42,9 +42,9 @@ The program is a practical example of API integration and JSON handling in Java.
      java -cp .;json-20210307.jar RestApiClient
      ```
 
-*Note:* If you use PowerShell on Windows, replace `;` with `:` or use quotes as needed:
-javac -cp ".;json-20210307.jar" RestApiClient.java     
-java -cp ".;json-20210307.jar" RestApiClient     
+*Note:* If you use PowerShell on Windows, replace `;` with `:` or use quotes as needed:  
+javac -cp ".;json-20210307.jar" RestApiClient.java  
+java -cp ".;json-20210307.jar" RestApiClient  
 
 ---
 
